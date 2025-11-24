@@ -1,2 +1,5 @@
-# freyja-scripts
-Personal scripts for various tasks and tools.
+# Handy Scripts
+
+A collection of personal scripts for Linux and general automation tasks.
+
+
